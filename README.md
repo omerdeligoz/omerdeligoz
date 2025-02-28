@@ -43,4 +43,6 @@ I'm eager to keep learning and applying my knowledge to real-world problems. I'm
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=omerdeligoz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p>
