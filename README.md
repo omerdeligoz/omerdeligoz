@@ -1,5 +1,3 @@
-I'm a 4th-year Computer Engineering student at Marmara University. On my GitHub, I share projects that demonstrate my skills and interests in computer science.
-
 **Some of my projects:**
 
 - **Knights-Tour-Solver:** A Java program that solves the Knight's Tour puzzle using various search algorithms, highlighting my problem-solving abilities.
